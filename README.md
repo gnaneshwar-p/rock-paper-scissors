@@ -20,6 +20,6 @@ This project implements a **Rock, Paper, Scissors** game that you can play again
    ```bash
    git clone https://github.com/gnaneshwar-p/rock-paper-scissors.git
     ```
-   the link for the game output :
+The link for the game output: https://gnaneshwar-p.github.io/rock-paper-scissors/
     
    
