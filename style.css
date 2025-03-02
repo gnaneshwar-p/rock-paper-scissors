@@ -1,0 +1,46 @@
+.container {
+  margin: auto;
+  text-align: center;
+  max-width: 600px;
+ padding-top: 50px;
+}
+
+.game img{
+ width: 150px;
+ height: 150px;
+ margin: 10px;
+ transition: transform 0.3 ease;
+}
+
+.game img:hover{
+  transform: scale(1.1);
+}
+
+input[ type="button"]{
+background-color: #4CAF50;
+color: white;
+border: none;
+padding: 15px 32px;
+text-align: center;
+display: inline-block;
+font-size: 16px;
+margin-top: 20px;
+cursor: pointer;
+border-radius: 5px;
+display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type="button"]:hover{
+  .game img {
+    width: 100px;
+    height: 100px;
+  }
+  input[type="button"]{
+    width: 100%;
+    padding: 12px;
+    font-size: 14px;
+  }
+}
+
