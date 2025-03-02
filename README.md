@@ -19,4 +19,7 @@ This project implements a **Rock, Paper, Scissors** game that you can play again
 1. **Clone the repository** to your local machine:
    ```bash
    git clone https://github.com/gnaneshwar-p/rock-paper-scissors.git
-
+    ```
+   the link for the game output :
+    
+   
